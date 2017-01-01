@@ -1,6 +1,6 @@
 FROM centos:centos6
 	
-	MAINTAINER timewithrobert@gmail.com
+	MAINTAINER iamjerin@gmail.com
 
 	
 	# Enable EPEL for Node.js
